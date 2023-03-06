@@ -4,6 +4,6 @@ STEPS TO SET UP:
 npm create vite@latest
 
 STEPS TO LAUNCH:
-cd todolist,
+cd app-name,
 npm install,
 npm run dev
